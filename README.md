@@ -1,7 +1,7 @@
 # 📜 Visão Geral  
 Jogo 2D de plataforma desenvolvido com **Godot 4.0**, apresentando mecânicas clássicas do gênero:  
 - 🏃‍♂️ Movimentação fluida do personagem  
-- 🪙 Sistema de coleta de itens  
+- 🧲 Sistema de coleta de itens  
 - 🎥 Controle inteligente de câmera  
 - 🎮 HUD informativo  
 - 🧱 **Plataformas móveis**  
